@@ -110,6 +110,6 @@ the NVIC and PWM peripheral for you under the hood.
 * diagram.json -- Wokwi circuit definition (button on D2, LED+resistor on D9)
 
 ## Running it
-
+ https://wokwi.com/projects/469773456500557825
 See the main project instructions for step-by-step simulator setup and
 how to generate a shareable Wokwi link.
